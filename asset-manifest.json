@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//reddy/static/css/main.e6c13ad2.css",
+    "main.js": "//reddy/static/js/main.22c319b0.js",
+    "static/js/787.0f7dc5a1.chunk.js": "//reddy/static/js/787.0f7dc5a1.chunk.js",
+    "index.html": "//reddy/index.html",
+    "main.e6c13ad2.css.map": "//reddy/static/css/main.e6c13ad2.css.map",
+    "main.22c319b0.js.map": "//reddy/static/js/main.22c319b0.js.map",
+    "787.0f7dc5a1.chunk.js.map": "//reddy/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.22c319b0.js"
+  ]
+}
